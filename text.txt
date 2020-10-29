@@ -1,0 +1,1 @@
+$q = "UPDATE user SET status = CASE WHEN status = 'I' Then 'A' ELSE 'I' END WHERE user_id=$id LIMIT 1";

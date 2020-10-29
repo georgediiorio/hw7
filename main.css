@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.jumbotron{
+    background-color:#747272;
+}
+
+body{
+    background-color: #eee;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.wrapper-register{
+  margin: 50px;
+}
+
+.form-register{
+    width: 580px;
+    position: relative;
+    margin:  auto;
+    background-color: #fff;
+    padding: 10px 30px 40px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+}
+
+.form-register {
+  margin-bottom: 80px;
+}
+
+.form-register input[type="email"], .form-register input[type="password"] {
+  margin-bottom: 20px;
+}
+
+.wrapper{
+    margin: 80px;
+}
+
+.form-signin {
+    max-width: 380px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 15px 40px 50px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+  }
+
+  .form-signin{
+    margin-bottom: 30px;
+  }
+
+  .form-signin input[type="email"], .form-signin input[type="password"] {
+    margin-bottom: 20px;
+  }
+
+  form-signin .form-control {
+    padding: 10px;
+  }
+
+  .footer{
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      }
+
+  .container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  }
+
+  td {
+    width: 100px;
+    }
+    thead {
+    font-weight: bold;
+    }
+    .center {
+    text-align:center;
+    }
